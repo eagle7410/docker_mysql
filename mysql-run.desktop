@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=MySqlRun
+Comment=
+GenericName=
+Keywords=
+Exec= docker start mysql && docker start myadmin
+Terminal=false
+Type=Application
+Icon=/home/igor/Рабочий стол/projects/docker_mysql/mysql-run.png
+Path=
+Categories=mysql
+NoDisplay=false

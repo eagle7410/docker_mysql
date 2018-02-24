@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=MySqlStop
+Comment=
+GenericName=
+Keywords=
+Exec= docker stop mysql && docker stop myadmin
+Terminal=false
+Type=Application
+Icon=/home/igor/Рабочий стол/projects/docker_mysql/mysql-exit.png
+Path=
+Categories=mysql
+NoDisplay=false
